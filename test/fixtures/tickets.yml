@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  tecnic_id: 
+  title: MyString
+  content: MyText
+  priority: 1
+  status: 1
+
+two:
+  user_id: 
+  tecnic_id: 
+  title: MyString
+  content: MyText
+  priority: 1
+  status: 1
